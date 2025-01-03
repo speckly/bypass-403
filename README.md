@@ -22,5 +22,6 @@ Currently it is `FLAG{FAKE_FLAG_HERE}`
   <summary>Click to reveal spoiler</summary>
   
   Add a `X-Forwarded-For: 127.0.0.1` header to the request. You can do this either in the Network panel of your preferred browser or in Burp Suite Community/Pro Version
-  
+  ![image](https://github.com/user-attachments/assets/f70a4d5a-48eb-4562-9c66-226d4db43a10)
+
 </details>
